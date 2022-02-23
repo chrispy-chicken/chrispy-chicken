@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chrispy2022
 - 👀 I’m interested in game dev and random fun projects in general
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to perhaps collaborate on small projects 
 
 
 <!---
